@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  color: #fff;
+  margin: 0 83px;
+}
+
+.logo {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 7%;
+}
+.navbar {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.searchBar {
+  display: flex;
+}
+.searchBarinput {
+  background: #374151;
+  border-radius: 37px;
+  height: 24px;
+  padding: 8px 100px 8px 18px;
+  border: none;
+}
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #868686;
+}

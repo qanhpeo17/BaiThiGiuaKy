@@ -1,0 +1,66 @@
+.miniTitle {
+  color: #868686;
+}
+h1 {
+  color: white;
+}
+.bigTitle,
+.miniTitle {
+  margin-left: 135px;
+}
+.bigfilmTitle,
+.bigfilmDes {
+  color: #fff;
+  padding: 0 40px;
+}
+.bigfilmTitle {
+  margin-top: 150px;
+}
+.bigFilm {
+  width: 84%;
+  height: 400px;
+  margin-left: 135px;
+  gap: 0px;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.newreleasedFilm {
+  margin-left: 135px;
+  width: 84%;
+  height: 361.87px;
+  gap: 0px;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+}
+.listFilm {
+  display: flex;
+  justify-content: space-between;
+}
+.filmItem {
+  width: 170px;
+  height: 284.11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+}
+.episode,
+.movieName {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
+.episode {
+  padding-bottom: 10px;
+}

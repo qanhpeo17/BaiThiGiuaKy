@@ -1,0 +1,11 @@
+.slide {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slide1 {
+  background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/27/08/avengers-endgame.jpg?width=1200&height=630&fit=crop");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
